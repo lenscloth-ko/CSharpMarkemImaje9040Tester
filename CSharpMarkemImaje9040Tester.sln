@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win.TCPClient", "Win.TCPClient\Win.TCPClient.csproj", "{A9839C8E-DD7A-4C57-A237-B1D62C4CE39A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImajeLib", "ImajeLib\ImajeLib.csproj", "{6B2A3044-C9AB-4C4A-BB7B-906945C2AD6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConCheckSumTest", "ConCheckSumTest\ConCheckSumTest.csproj", "{DC11E7F3-C6D6-4790-A2CD-8CA8D7AA2DEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9839C8E-DD7A-4C57-A237-B1D62C4CE39A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9839C8E-DD7A-4C57-A237-B1D62C4CE39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9839C8E-DD7A-4C57-A237-B1D62C4CE39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9839C8E-DD7A-4C57-A237-B1D62C4CE39A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B2A3044-C9AB-4C4A-BB7B-906945C2AD6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2A3044-C9AB-4C4A-BB7B-906945C2AD6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B2A3044-C9AB-4C4A-BB7B-906945C2AD6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B2A3044-C9AB-4C4A-BB7B-906945C2AD6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC11E7F3-C6D6-4790-A2CD-8CA8D7AA2DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC11E7F3-C6D6-4790-A2CD-8CA8D7AA2DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC11E7F3-C6D6-4790-A2CD-8CA8D7AA2DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC11E7F3-C6D6-4790-A2CD-8CA8D7AA2DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
