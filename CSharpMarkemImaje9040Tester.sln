@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win.TCPClient", "Win.TCPClient\Win.TCPClient.csproj", "{A9839C8E-DD7A-4C57-A237-B1D62C4CE39A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImajeLib", "ImajeLib\ImajeLib.csproj", "{6B2A3044-C9AB-4C4A-BB7B-906945C2AD6E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConCheckSumTest", "ConCheckSumTest\ConCheckSumTest.csproj", "{DC11E7F3-C6D6-4790-A2CD-8CA8D7AA2DEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImajeCompactLib", "ImajeCompactLib\ImajeCompactLib.csproj", "{A1DCF19B-1527-43B1-8A85-6ED85D846698}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,8 +29,15 @@ Global
 		{DC11E7F3-C6D6-4790-A2CD-8CA8D7AA2DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC11E7F3-C6D6-4790-A2CD-8CA8D7AA2DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC11E7F3-C6D6-4790-A2CD-8CA8D7AA2DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1DCF19B-1527-43B1-8A85-6ED85D846698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1DCF19B-1527-43B1-8A85-6ED85D846698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1DCF19B-1527-43B1-8A85-6ED85D846698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1DCF19B-1527-43B1-8A85-6ED85D846698}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9850911-42D2-46E1-A713-1CF3F37713B3}
 	EndGlobalSection
 EndGlobal
