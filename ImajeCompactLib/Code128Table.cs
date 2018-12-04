@@ -66,7 +66,6 @@ namespace ImajeCompactLib
         {
             string _val = TypeValue(codeset, inputData); // code128테이블 value
 
-
             //In the V24 barcode structure, we can use the ASCII table to insert the
             //characters bytes.
             //If we use the Code 128 characters table, we have to add 20h
